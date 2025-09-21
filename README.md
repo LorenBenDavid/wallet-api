@@ -1,4 +1,4 @@
-<img width="1290" height="2796" alt="IMG_9879" src="https://github.com/user-attachments/assets/f200d5f6-5a56-432d-b252-d6fe697385f1" /># React Native Wallet – Personal Finance Tracker
+Personal Finance Tracker
 
 A full-stack personal finance application that helps you **track income and expenses**, visualize summaries, and stay in control of your budget.  
 Built as a student side-project to manage my own finances and now open for everyone to use or extend.
